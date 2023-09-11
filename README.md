@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Agrawal</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif">
 # 💫 About Me:
+ <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif">
 🔭 I’m currently working on Hotel booking app<br><br>🌱 I’m currently learning Python, Java, React<br><br>👨‍💻 All of my projects are available at https://abhiportfolio.streamlit.app/<br><br>💬 Ask me about python , web development<br><br>📫 How to reach me agrawalabhishek622@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1UKqxONWTWEmd8TiJYmDWyGmWoQ8ZpmZo/view?usp=drivesdk<br><br>⚡ Fun fact I think i am Funny
 
 ## 🌐 Socials:
